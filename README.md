@@ -1,1 +1,1 @@
-# CS2-Macros.
+# CS2-Macros
